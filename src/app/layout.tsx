@@ -11,7 +11,7 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "FSW Trips",
+  title: "NextTrips",
   description: "Sistema de Reserva de Viagens",
 };
 
